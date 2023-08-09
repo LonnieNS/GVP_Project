@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1845 50">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #22226c;
+      }
+
+      .cls-2 {
+        isolation: isolate;
+        opacity: 1;
+      }
+    </style>
+  </defs>
+  <g id="Group_8" data-name="Group 8">
+    <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-1" cx="832.43" cy="24.94" r="22.5"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-1" cx="922.43" cy="24.94" r="22.5"/>
+    <path id="Path_34" data-name="Path 34" class="cls-1" d="m1012.43,2.44c12.43,0,22.5,10.07,22.5,22.5s-10.07,22.5-22.5,22.5-22.5-10.07-22.5-22.5,10.07-22.5,22.5-22.5Z"/>
+    <path id="Path_33" data-name="Path 33" class="cls-1" d="m1102.43,2.44c12.43,0,22.5,10.07,22.5,22.5s-10.07,22.5-22.5,22.5-22.5-10.07-22.5-22.5,10.07-22.5,22.5-22.5Z"/>
+    <path id="Path_32" data-name="Path 32" class="cls-2" d="m1192.43,2.44c12.43,0,22.5,10.07,22.5,22.5s-10.07,22.5-22.5,22.5-22.5-10.07-22.5-22.5,10.07-22.5,22.5-22.5Z"/>
+    <path id="Path_31" data-name="Path 31" class="cls-1" d="m1282.43,2.44c12.43,0,22.5,10.07,22.5,22.5s-10.07,22.5-22.5,22.5-22.5-10.07-22.5-22.5,10.07-22.5,22.5-22.5Z"/>
+    <circle id="Ellipse_7" data-name="Ellipse 7" class="cls-1" cx="1372.43" cy="24.94" r="22.5"/>
+    <path id="Path_30" data-name="Path 30" class="cls-1" d="m1462.43,2.44c12.43,0,22.5,10.07,22.5,22.5s-10.07,22.5-22.5,22.5-22.5-10.07-22.5-22.5,10.07-22.5,22.5-22.5Z"/>
+    <path id="Path_39" data-name="Path 39" class="cls-1" d="m112.43,2.44c12.43,0,22.5,10.07,22.5,22.5s-10.07,22.5-22.5,22.5-22.5-10.07-22.5-22.5S100.01,2.44,112.43,2.44Z"/>
+    <path id="Path_38" data-name="Path 38" class="cls-1" d="m202.43,2.44c12.43,0,22.5,10.07,22.5,22.5s-10.07,22.5-22.5,22.5-22.5-10.07-22.5-22.5,10.07-22.5,22.5-22.5Z"/>
+    <path id="Path_37" data-name="Path 37" class="cls-1" d="m292.43,2.44c12.43,0,22.5,10.07,22.5,22.5s-10.07,22.5-22.5,22.5-22.5-10.07-22.5-22.5,10.07-22.5,22.5-22.5Z"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" class="cls-1" cx="382.43" cy="24.94" r="22.5"/>
+    <circle id="Ellipse_13" data-name="Ellipse 13" class="cls-1" cx="472.43" cy="24.94" r="22.5"/>
+    <path id="Path_36" data-name="Path 36" class="cls-1" d="m562.43,2.44c12.43,0,22.5,10.07,22.5,22.5s-10.07,22.5-22.5,22.5-22.5-10.07-22.5-22.5,10.07-22.5,22.5-22.5Z"/>
+    <path id="Path_35" data-name="Path 35" class="cls-1" d="m652.43,2.44c12.43,0,22.5,10.07,22.5,22.5s-10.07,22.5-22.5,22.5-22.5-10.07-22.5-22.5,10.07-22.5,22.5-22.5Z"/>
+    <circle id="Ellipse_16" data-name="Ellipse 16" class="cls-1" cx="742.43" cy="24.94" r="22.5"/>
+    <circle id="Ellipse_18" data-name="Ellipse 18" class="cls-1" cx="22.43" cy="24.94" r="22.5"/>
+    <circle id="Ellipse_19" data-name="Ellipse 19" class="cls-1" cx="1552.43" cy="24.94" r="22.5"/>
+    <path id="Path_29" data-name="Path 29" class="cls-1" d="m1642.43,2.44c12.43,0,22.5,10.07,22.5,22.5s-10.07,22.5-22.5,22.5-22.5-10.07-22.5-22.5,10.07-22.5,22.5-22.5Z"/>
+    <path id="Path_28" data-name="Path 28" class="cls-1" d="m1732.43,2.44c12.43,0,22.5,10.07,22.5,22.5s-10.07,22.5-22.5,22.5-22.5-10.07-22.5-22.5,10.07-22.5,22.5-22.5Z"/>
+    <circle id="Ellipse_22" data-name="Ellipse 22" class="cls-1" cx="1822.43" cy="24.94" r="22.5"/>
+  </g>
+</svg>

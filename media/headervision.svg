@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1921 91">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #e8a94d;
+      }
+
+      .cls-2 {
+        font-family: Roboto-Bold, Roboto;
+        font-size: 125.37px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(1499.89 89.75)"><tspan x="0" y="0">VISION</tspan></text>
+  <rect class="cls-1" x="-10" y="79.5" width="1544.51" height="10.08"/>
+  <rect class="cls-1" x="1894.91" y=".78" width="334.63" height="10.45"/>
+</svg>
